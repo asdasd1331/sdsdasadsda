@@ -1,1 +1,581 @@
-return(function(e,...)local P="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local U=e[(703674124)];local w=e[(84646547)];local y=e["HGJR20pED"];local q=e[((773473778-#("psu 60fps, luraph 5fps, xen 0fps")))];local c=e[((#{756;605;108;108;(function(...)return 781,293,25;end)()}+792125977))];local s=e[(732841233)];local J=e[((536958134-#("still waiting for luci to fix the API :|")))];local W=e[((#{823;(function(...)return;end)()}+33493784))];local L=e[((163964633-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))];local G=e["EElQQp"];local Q=e[((#{675;799;995;}+3198962))];local m=e[((#{301;438;(function(...)return 990;end)()}+185091224))];local p=e[(736898455)];local g=e[((#{430;128;68;(function(...)return 612,...;end)()}+853076370))];local D=e[(631204453)];local v=e['kNyzjoj'];local t=e[(372021418)];local F=e.J9lSNJOqxu;local u=e[(941622615)];local I=e[(351021994)];local i=e[(10447015)];local z=e[((#{423;494;}+133332764))];local x=e[((113653060-#("guys someone play Among Us with memcorrupt he is so lonely :(")))];local C=e[((#{216;309;(function(...)return 566,...;end)(414,207)}+586660690))];local d=e['oliTINXe'];local a=e[(620593766)];local o=e[((416276164-#("ironbrew deobfuscator go brrrrrrrrrrrrrr")))];local R=e[(780221116)];local X=e["b1GLIOR"];local B=((getfenv)or(function(...)return(_ENV);end));local n,h,l=({}),(""),(B(o));local r=((l[""..e[a]..e[p].."\116"..e[I]..e[v]])or(l[""..e[a].."\105"..e[c]])or({}));local n=(((r)and(r[""..e[a]..e[F].."\111"..e[s]]))or(function(e,l)local o,n=o,d;while((e>d)and(l>d))do local a,r=e%t,l%t;if a~=r then n=n+o;end;e,l,o=(e-a)/t,(l-r)/t,o*t;end;if e<l then e=l;end;while e>d do local l=e%t;if l>d then n=n+o;end;e,o=(e-l)/t,o*t;end;return(n);end));local f=(t^w);local b=(f-o);local E,k,A;local f=(h["\98\121\116"..e[i]]);local N=(h["\103"..e[x]..e.ovupJIWyL..e[a]]);local M=(h[""..e["DiD6eTusqb"].."\104\97"..e[s]]);local h=(h[""..e[x]..e['ovupJIWyL'].."\98"]);local N=(l[""..e[c].."\111\110\117\109"..e[a]..e[i].."\114"]);local Y=(l["\109"..e['IQ2NdkYQ'].."\116\104"][""..e["svQQx7"]..e[u]..e[m]..e[m]..e[s]]);local O=(l[""..e[Q]..e["IQ2NdkYQ"]..e[p].."\114"..e[x]]);local y=((l["\117"..e[g].."\112\97\99\107"])or(l["\116\97\98"..e[u].."\101"][""..e["ovupJIWyL"].."\110\112\97"..e["DiD6eTusqb"]..e[y]]));local T=(l["\115"..e[i].."\116\109"..e[i].."\116\97"..e[c]..e['IQ2NdkYQ'].."\98"..e[u].."\101"]);local T=(l["\116\121\112"..e[i]]);local T=((l["\109\97\116\104"]["\108"..e[D].."\101"..e[F]..e[Q]])or(function(e,l,...)return((e*t)^l);end));local Q=(l["\115\101"..e[u]..e[i]..e.DiD6eTusqb.."\116"]);local z=(l[""..e[s].."\97"..e[z]..e[x].."\101"..e[c]]);k=((r["\114\115"..e[L].."\105"..e['svQQx7']..e[c]])or(function(l,e,...)if(e<d)then return(E(l,-(e)));end;return(Y(l%t^w/t^e));end));local Y=(r["\98"..e[m]..e[s]])or(function(l,e,...)return(b-A(b-l,b-e));end);E=((r[""..e[u]..e[x].."\104\105\102\116"])or(function(l,e,...)if(e<d)then return(k(l,-(e)));end;return((l*t^e)%t^w);end));local b=(r[""..e[a]..e[g].."\111\116"])or(function(e,...)return(b-e);end);A=(r[""..e[a]..e.IQ2NdkYQ.."\110"..e[D]])or(function(e,l,...)return(((e+l)-n(e,l))/t);end);if((not(l[""..e[a].."\105\116\51"..e[v]]))and(not(l[""..e[a].."\105"..e[c]])))then r[""..e[a].."\111"..e[s]]=Y;r[""..e[a].."\97"..e[g]..e[D]]=A;r[""..e[s].."\115"..e[L]..e[p]..e.svQQx7.."\116"]=k;r["\108"..e[x].."\104"..e[p].."\102\116"]=E;r["\98\110"..e[m]..e[c]]=b;r[""..e[a]..e[F].."\111\114"]=n;end;local t=(l[""..e[c]..e["IQ2NdkYQ"]..e[a]..e[u].."\101"][""..e[p]..e[g].."\115"..e[i].."\114\116"]);local g=(l[""..e[c]..e['IQ2NdkYQ']..e[a].."\108"..e[i]][""..e['DiD6eTusqb'].."\111\110\99"..e.IQ2NdkYQ.."\116"]);local t=(l[""..e[c].."\97\98"..e[u].."\101"][""..e[s]..e[i].."\109"..e[m].."\118\101"]);local v=(((l[""..e[c].."\97"..e[a]..e[u]..e[i]]["\99"..e[s].."\101\97\116\101"]))or((function(e,...)return({y({},d,e);});end)));l["\98"..e[p]..e[c]..e[I].."\50"]=r;local l=(X);local a=(#P+R);local r,x=({}),({});for e=d,a-o do local l=M(e);r[e]=l;x[e]=l;x[l]=e;end;local d,t=(function(n)local c,e,t=f(n,o,W);if((c+e+t)~=G)then l=l+w;a=a+U;end;n=h(n,q);local l,t,c=(""),(""),({});local e=o;local function i()local l=N(h(n,e,e),C);e=e+o;local o=N(h(n,e,e+l-o),C);e=e+l;return(o);end;l=x[i()];c[o]=l;while(e<#n)do local e=i();if r[e]then t=r[e];else t=l..h(l,o,o);end;r[a]=l..h(t,o,o);c[#c+o],l,a=t,t,a+o;end;return(g(c));end)("PSU|21i26610101r1I1927622A21n1e1f1S21F21h1R1P22z1n1C2762212131o1p141e21i21I1N141J1n22X1v1427623816171G23i1h1A2762241z1821g27w141v1A1623i2792762202131v101l1n21c217172391u1527621W1x16121D23B28227623B1M181T2332981022C21D1T1c2331S1727622X17181727N1223828z27629h141C1u22w27m27621z2121c1827V1H101T17191k22W1K1F27622V121H161j1M1Q181H1L2aT131e1928m27a1022f21i1D1721K1z1l101123J28n1022e141128h28j28L29m29x29i1c21i2191n22R1l1E27622R1B191F19121G15161N1D1p1G1M22w2BJ2BC21F2C21R1t21t2141j1828C21127e1S2aC1923g2BR2AJ2al27M11101B2c21t16111t22W1G1b2bt1h1J1I1R1r1m27x27z22x2cH2841R29M161R2Ad23g2D327622B2132Dj2ad21D21j2C4288191I2dO21K1a1L1h171D1e2aO21G21O1d1l2791t1v23a2c922A2Cb131b13102972831022V162A723I2CQ1022A21J1b1A111N1X21I2aA2CN2AF1A2aa102371m1H1s111D2b81B1u122eD28T161D22Q2cY2A42a61821821923j2C922E2Cb1N2CD21s21529W1022821d1F1q1722w1m2Ff102391r2fi1T1r2Am1n21721K1i1S2361O2El2f92C223d2GB27621v21i29N1n1B1Q21J1y2a71n1J23e1b1g27622D2122Db21N21328Z112132bg28k23i2C922321A1S21M2181b1123i2FP1021v2h4182H623e2Hw2361J1f1A1B1223a2F72Do21e1o21G2141m101I29421J21J1K142c6172331q2CU1021321O2gv102222112862G81w2HK2bI29n1022b2F321J2181T1n23i2g3237131H1m1P2392Df1022u1j1R1d1N2Cy112jl2CI29G21D19191L1V2CY2332JM2aK1H1N1H1T1s102c82J629H1N102ch28x2IS27623G22V2BB2282E91O1S1N21H21e2go2Hw2g527Z2H12332Dn1021U21c27x1A1x2J0172G822w2G322B21n111R1629e2eO22D1h219142ef2J621v2Jb1n1y2kv2362ah27B21j1l1S151a122e2111y21b1R112IQ28a2A42Kv21m2J423i29f22c21N101323B2kK102F71D2Ih1022R2K7142e22hR1M161m171n21M21L2jp2jr2JT2392eu21y21B171a2M72M91721J21711151823J2Hw2FA162E31r2392hw21v1521G1j2es2L228d1c29521o2kq2ks22X2L221Z1Y1h2nI2Nk182DB1B2392C922p2g71t18182Lo2k52al101h29z2A12h92bT12121b1D2mf171o2C3151D152e223i181j2CR1H2172171s1Q27X1521n2B2112h11t1t2FN2Bb22S112ER2fj1P152ax2IX21u28W1A152AV191W21f1J2l02HW2mU27x2p82A32Kc29n141d2n62JS2Cz2392BB23B1o1t1p2GQ1H1228l2g32251y1q2n023I2iB2JN1f1r1n161F2m2181f111H2GJ2CD22X2C92Kp1D2Kr1n112Kd2DO2132aS28S2b92Eu2L41R2ra21P2Hd181o21121f2pp23a2gr27621s26726722j2Gq27b21F1O22Q2G3234122DK1Q2k42JW2Fa2f42Ad2AF2mC2J72131l1j2nQ2KT2LV2lD21N1d27A23B2HW2922871R1q22W2r22k62Fd2ff2Pm2gG1V2Fl2fN2G322e2du2C52aY29X1Z2dy1B213213181923829f2311c2M02372G32K61j1423c2c921V2172k02OR2B91e2b71021Z21422722Q21J1C22h2382E921x23721C1h27J1422c22Z1Y1d2BA2aZ21t1Y102n0102Cm1B22Q2C922I21h121F1B1C2C729F29A1j1s2OH2j62U32OY1O2312sB1029p2sK2VR2371a1n2VL2762361n2iN2iP2sL2Bt2bV1L172JH1C23A2hW2321r1O1f2n222x121p291192312Bs2761E23821N2ui2uk2uM2uO2uq2US27s2332bb21u2191B1T21R2151T2Am2Je2902JN1a2el1T2812EO2u82k02X12AZ22F21r2d01h19152G82332Pa2762sN2pE2pg2PI2pk1D2pm1Q2Po2FN29F22u2R42Jd2Sg1j2952EM2lX2jx2jZ2k12CY2hJ27x2bh22U2s527626O25r2102eU22621N2Wg2n22F22w32oZ28L2vr22121m21E22I2g32ps2N21I23g2G32381L2Q42XB2To2tQ2qM2AZ22p1K2Lg1s2Dk2772lJ27622621B2Es2sr2o91h2Yk28I2HL21m1X2762c81014132212B722n1H1i172e31B1721s2252o221U22l2Ao22g22I141x1Q1023F22Z21722Y2bb2xJ1J2yC2k828029F2j82MW29l2vm2Al2C21b2Vp2BB22B2ur2KG1B2152lV2Bb2v12JS1V1N2M523j29F22Q2FF2mm2l22np2n12n321O2yd23b2C92FA2yl2hL2JM21U1Z12182GI31292342yf23B152Cd1H21M21o2R81p1I2E52aO23J2o01z2O21D21r2UR2uT2332r22qX2Qz1M21321J2cU2m922n23621b2R92342G322t2kg2Po22X2kX2O52802G322C21P1t1o2Ax2VR21Y191p2252C921X2171f2q42rS2wP236171R21d2182MZ311x21m21F1P1k23E2JM2o92M32AR162v72l22yU2yw1n2Q62bX122mH2Eo2381T1A18313B2xc22U2E41V1m2TN2vs1Q218311Z2OY2Y223j2G32iZ1d2172fU2HW22p2on1F1D1r2332HW2K62c21223G2QN310d2fc2A71E1h31172w02W2142zO2JD2o021L1K21e2F32Ab2sp22W2jm2lR111q1l29R2D12U72U9314p2B92qA1H2bV141R2382Sr2302aV151N172Dr2co2g321t21e102FB2332SR2k61Q1B27y1N2n1315M1629o171t2db2LI2l222E21r2lh111k1d21L2hd2802L22EW182si1H2Q62Q82sk2OV102nB151O2K72dk191y313x313z23J2xv103142314431462n02n22n42qj2N82VR2321b1i2302hW2392N01n21n2fu29f2G52U029F313W2wF23a29F22f21E192nm2r22352Io1G1G21m21c1121D2172XQ2K02K22LI2HW2202ln2rj1S2Fa2gc2ty1a1E21M214312g1T2Ze2Aw28928b31842m81n27V2DC2802Sr22a2131r21P2MG2VR2341s1u2rg2j622021o31062H3315x2Qe22B21o1q1r1A21j2MG2NU21813132ce2142G32mu316p233131O2DO21m1427R2Ea2Jt21O21f2p51s1621r312s295192ft23j31262TP1M21h21d2Sv315Y315421821P310E1L23e2QE2371I2h61C317h171l315J28l2jm27P2aC31Cg1D28l29F2231Y314v2342NO316Y31892zB2xc2Le29N315L2Ix22P22A172pt1731D7111l2Po1721O319Q2152I62Tu2hm3118310c2eJ2vP318322021p1o1c2rb2Fm21i21p27721031C02LI2Ix226319l31BD2Qq2122181j1P1E2802c921z21h27Z2k22Fn2Eu2zX21C1x1M1G314i2Q22G72g9310231042Kb3107310910310b315t17310g310i310k310m1m22g2301E2181Y21N1y21L1b2372qa1c2fE2M42332772911x13171K2qR2Ni2K02132161A310e1821A2u91L21D2q72H12g92Ix22r2Ox2oZ21m2Bo2M01d2qu2eT2wP317W317Y1Z21f2JQ2Qk2ju2Qe2bu31cn317X2wh2p61V1j23I2l229h29j2zz2bH23i2Qe2qx1B1H1p1921i312W2X02Qe22c2tP2cv31AI312428l22n21w31ES310631082B731F322h2211E2Ka2jc2r62db1h31fg1q316O1q22I310j1221U22631cb1531cB22D1210121u22K1n31If31I71I316w1n1522621u2A71721T2201i2Ms1a2GP2gr22T1m1322Z31832j82ey2161x2CD1F2i62M42n82sr31Go1631gq2pT2se2L22sh2gh2Gj2Gl2gn2362dX2zS31j522c22f1v2xp2XR2g81H1121w316F21G2R22EW2m02M22M431JX21j31aG1t2sV314Q313K2122cH1523b2jM3185192142ig1R2372jM318v2DB1M2P731C72c922v182bv2OY112YN27631l21021S22j2G321y2nx2Es2JM31dO31dQ31ds2uy311V2fb2c214152ht2m422Q2Sr23131581f1v1u2d82D12SR2y82R52AP2aW315j29A2gc22821r2j1172j331Hg23I31Cj2131q1y2tl28831262x41T21q21Q2X52381p31iA31Ew1O22K2L227p2hH318y2RA2c22332g32LL2ln22N2152vr31kW1B22821h2Cu1i1A22D22531l3111F2Bs219219111131NB24N25b2762ox31nb1Z2MK2Ml1331Nb24O24W276141431nb22T23H2761531I71a26025C276161631nB22I21U27631d731nB23d22P2762OM31NB25u25m2762jz31nB24023S2761A1a31NB22H21t2761B318R1a25824k2761C1C31nb24523X2761d1D31NB23522X2wQ1e31Nb24823k27631J731Nb23q24e276319f31NB23Y2462762Rd31Nb23T2412761i31Q628k1u276311031Nb1x21l2761K1k31Nb25124T2762At31NB23c22o2761m1M31ok31om1031iF31NB21p2112761O1O31nb25B24N2761p312M1a1P2It1Q1Q31nB24323v2762D931NB23722Z2761S1S31NB21d2152762Po31NB22F2272761U31lt1A21X22l2761V1v31NB1031bE101W1W31NB2312392761X1X31nB21S22G2761y1y31NB23S2402761z2Tp1A22p23d27621021031nB21y22M27621121131Nb24g25427621221231NB22w2342762Ts31nb23U24227631Kl31nB26425g27621521531NB24923L27621621631NB21221Q2762pE31nb24k25827621821831nB21e21627631Nj31NB22022827621A21a31NB31s61021B21B31nB112wl1021C21c31NB24s25027621d21d31NB1728r1021E21e31Nb22u23i27621f21f112ox1131VB31nl31nb23B31fj31ib1231NB21421C27631B531Nb23023831o031O21A24w24o31o631O822B22331Oc31oE1A1u317F1031Oj1A23x24531on1831Nb1y21m31Os2dX1A21h21931OX31OZ1a192F831P431Nb24F23r31P931pb31Oy2DY1031pg31nB25q25y31PL31Nb22n21z31Pq1F31nb1Q31MP31pW1a24423w31Q0310c1A1C1k31Q531Q722x23531qa2D71A22722F31Qf31qh1A21o21031QL2Eb1a23I22u31QQ31Qs1A25N25v27631qW1A23323b31r031R21a21131dv1031r731nB24x24P27631Rc31Nb22A22231RH2781A24c23O31rm31rO1A1K27n2AB1T31NB25624i31rX31RZ21m2V21031s431nb25e26227631sa31NB21521D31SF31Sh1a25924l31sl31sn1A21t22H31Sr31sT23o24C31Sx31sZ1A26125d31T331t51A2Q831t931Tb1a25a24M31tf21331NB25O25w31tK21431nb25R25Z31Tp31tR1A21r21331Tv31tx2e12gC31u21A1F2kG1031u731Nb25224u31uc21931nB22422C31uh31Uj2M3310S31uM31uO1a31qO27631uT31nB21w22k31uy31v02Xe1R27631v531NB24623y31vA31Vc1231Vd31vG31nm1A21B21J31nq31vm1a21v22j31Vq31NW1A31s8310631VW25724j31W031Nb24H25531w431NB21A21I31oi1731nb21821G31wE31Nb22k31hj1031oT31iu22y31wo31nB23H22T31P331P523J22v31WX31NB21J21b31pF31Ph1A24I25631X61A24123t31xa31nB26325f31pv1g31NB1R2Gr31q11a24B23n31xo31nb23v24331xS31nb21l31031031qg31Nb22922131y231NB25X25P31y731nb21N1z31yc1N31nb21K1W31yH31nB24E23Q31r631R825524H31yr31rd1a25f26331Yw31nB25m25U31Z131nB1M2wp31rt1a22q23E31zB31Nb22M21Y31s331S51a22322B31Zk31sB1A25w25o31Zp31Nb21921H31Zu31Nb22j21v31zZ31nb24P24x320331nb26525H320831nB24z24r320c31nB2xQ320h31nB22y236320M31NB25324V320r31nB22O23C320W31Nb1T2Xc321024q24y31U631U81a23r24F321931nB22e226321E31nB22622E27631UN31nB25024S321m31UU1A21031Ar1031uZ31NB182ha31v431V61A3161322031vD2mL322431nb21721F322931nB25g264322E31nB24223u31vV31nB23A232322m1A24V253322q1A24J257322U31Nb1S2eo31oO1A2163173323331WK151T32371a228220323B31NB25C260323f1A2EA323j31NB22522D323O23n24b323S1A24A23M323w31Nb22R23F31xj31Nb25y25Q32451A23823032491a21F21731Xx31Nb25Z25R324i1A31uW324m1a21z22N324q31Nb23F22R324v1a22s23G324z31NB25d261325331nb22V23j3258319Y2ms31rN31NB23p24D31rS31Z71A24T251325k1A22222A325O31NB23k248325T31Nb25T25L325y1a22l21X32621a25H26532661A22C224326A1A26225e326E1a22g21s326i1a23L249326l1a21g218326p1a22Z237326T1a23E22Q326x2Vx2AI10321025P25x327431Nb1G2jW31ud1A25K25s327D1A24723z327H321J26725j327m31NB1B2pB327R321S21321r321v21e31vD171431v531nl31NL31l331Nr1A239231322e112tU31L231O131NB32dq31w023N24326P269322e25U325b2II2Mt31Xr31w9171X21524224a31d731D832Du2OX328v24u25231Wj2dY1631xn2Mp31OZ1021X31Xw2CV1b32ec21821031P431wt32dP32dr1031pA111331Ia31nL31pg2F02IH31Pg31p4111e142hT2pM2Ht2I731l231wz1a21Q212323b1131R22BV2Jz19111C2ff2jz31d723n23P25w32e631B526a26A31Q532e8322e32EC25225A31B531b532Dt27A2oX32dW1a1w21K31W032Fy2fF31O731B5121J2f831nv31iS240244328b2mP31s831B51X21023423932gg322F31yu32GP317C1032gs1332ec21H21P32h932EC23g23832H92Dy322G31Vv32h532h731o132gL32hB2V32Cz32hd31Od31O132HH21P32Hu310q21524O24G32I432gI31nV31o731NB21i21A31W432Ia31o131d81O1U1731o732IC32H231w432h524v24Q31oD31od31nb23223A31wE32fc102OM32Iv32iP32ea32Ir24q32EG322v1A24l25931WJ32j032G1322v1023Q32h032j11832IA31Od2JZ32Ia31B531Oy32j031oy2OM23O24F321U2d72Cu32J231d532E732JI32iZ32dU32jn32fx32Du31O132jR32hd32Jt1832jv32jX1I32Jz31Kx2Ez32e723P247322Z32J42jz32J632fw31wk26625I32FS2B832eW32jo1I32da32jk317P2uE32Jk131921L32dG31l22dY32k332l132du31D732JO32DU32jq2ez32kB314v32kd32JW1021f32l82OM27r31nA32jH32JJ2oM32Ia32lE32K727A32k932lI2iH32kC32ke32Ln32lP29c2fd32e722L31Rw32Jk31Nb25v25n32Jd1d31z532MC32J42OM32Ec22h2292Om32Ml21021921432MP31wF1A25s25K31wo31NL2oX323B21D21I23322W23P23p31p432n322R22s31D732fF32Fz32Ew31oO324d31W8328v25l25T32mG32mi32NH32hQ32Jk32hs23932mU31Yt31yv32er32Js32lk32I232mU32H525224Z2oM323421u22I32fs32nF31P432Jo2T731L31021G322y32Dm31vL31Rh2Y72wH1a2nn31W823731cv2AD22z31z52dY1j2IT2ox32EC2CI2oX31Ve32DU32ds32dU31NL31o132J031O12Ox32M42Jz322931od276112DB2B831vd32221l32eq31vl32L52pM31nF32pH322931D932PM31vE32Od31L331o732N1276"),(#P-J);local function o(e,l,...)if(e==34957247)then return((n(((n(l,485616))-398701)-184375,166720))-64695);elseif(e==777696687)then return(n(n((n(l,726596))-886892,882512),430717));elseif(e==877931348)then return(n((n(((l)-922003)-144192,195335))-61719,279732));elseif(e==804156788)then return((n(((n(l,210968))-440291)-130133,91649))-848843);elseif(e==192888083)then return(n(n((n(l,625901))-559944,73138),146381));elseif(e==743042896)then return(((n(n(n(l,300764),731326),128589))-940066)-837260);elseif(e==452814932)then return(n(n(n(l,916220),66928),667865));else end;end;local a=e[(416276124)];local c=e[((33493867-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))];local u=e[(372021418)];local o=e[(846257704)];local s=e["h8T4sVy6e"];local i=e[(341700203)];local p=e[((250916091-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))];local g=e[((#{721;681;396;}+553931662))];local m=e['oliTINXe'];local function r()local a,c,r,e=f(d,t,t+c);a=n(a,l);l=a%o;c=n(c,l);l=c%o;r=n(r,l);l=r%o;e=n(e,l);l=e%o;t=t+p;return((e*i)+(r*s)+(c*o)+a);end;local function i()local a,e=f(d,t,t+u);a=n(a,l);l=a%o;e=n(e,l);l=e%o;t=t+u;return((e*o)+a);end;local function c()local e=n(f(d,t,t),l);l=e%o;t=(t+a);return(e);end;local function s(l,e,o)if(o)then local e=(l/u^(e-a))%u^((o-a)-(e-a)+a);return(e-(e%a));else local e=u^(e-a);return(((l%(e+e)>=e)and(a))or(m));end;end;local I=""..e[g];local function N(...)return({...}),Q(I,...);end;local function G(...)local m=e[(33493785)];local q=e[(354012212)];local w=e[(84646547)];local M=e[((886344272-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))];local B=e['urXedoWm'];local Q=e["zE8cf4hvGw"];local I=e[((#{445;(function(...)return 689,378,778,241,...;end)()}+291117712))];local L=e[(296702923)];local P=e.hCA0c;local D=e[(737003951)];local N=e[((860498775-#("why the fuck would we sell a deobfuscator for a product we created.....")))];local b=e[(372021418)];local E=e['qWsORcveT'];local W=e[((#{177;251;326;907;(function(...)return...;end)(237,86)}+864183600))];local y=e[(360187374)];local p=e[((846257736-#("'psu > luraph' - memcorrupt 2020")))];local U=e["gkcOm"];local J=e[(556837784)];local a=e.oliTINXe;local k=e[(250916009)];local Y=e['HikzMQ1B'];local v=e[((#{495;}+286609309))];local o=e[((416276189-#("woooow u hooked an opcode, congratulations! i do NOT give a fuck.")))];local g=e[((773473841-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))];local C=e[(933166462)];local function A(...)local e=({});local F=({});local u=({});for i=a,r(l)-o,o do local u=c(l);if(u==Y)then local l=c(l);e[i]=(l~=a);elseif(u==m)then while(true)do local n=r(l);local l=r(l);local r=o;local t=(s(l,o,v)*(b^w))+n;local n=s(l,J,q);local l=((-o)^s(l,w));if(n==a)then if(t==a)then e[i]=(l*a);break;else n=o;r=a;end;elseif(n==P)then e[i]=(t==a)and(l*(o/a))or(l*(a/a));break;end;e[i]=T(l,n-U)*(r+(t/(b^C)));break;end;elseif(u==Q)then while(true)do local r=r(l);if(r==a)then e[i]=('');break;end;if(r>M)then local a,c=(''),(h(d,t,t+r-o));t=t+r;for e=o,#c,o do local e=n(f(h(c,e,e)),l);l=e%p;a=a..x[e];end;e[i]=a;else local o,a=(''),({f(d,t,t+r-o)});t=t+r;for a,e in O(a)do local e=n(e,l);l=e%p;o=o..x[e];end;e[i]=o;end;break;end;else e[i]=(nil);end;end;local n=r(l);for e=a,n-o,o do u[e]=({});end;for A=a,n-o,o do local n=c(l);if(n~=a)then n=n-o;local t,x,w,p,h,d=a,a,a,a,a,a;local f=s(n,o,m);if(f==g)then x=(c(l));h=(i(l));d=(r(l));t=(i(l));p=({});for e=o,h,o do p[e]=({[a]=c(l),[o]=i(l)});end;elseif(f==o)then x=(c(l));d=(r(l));t=(i(l));elseif(f==m)then x=(c(l));h=(i(l));d=u[(r(l))];t=(i(l));elseif(f==b)then x=(c(l));d=u[(r(l))];t=(i(l));elseif(f==a)then x=(c(l));h=(i(l));d=(i(l));t=(i(l));elseif(f==y)then end;if(s(n,k,k)==o)then t=e[t];end;if(s(n,D,D)==o)then w=u[r(l)];else w=u[A+o];end;if(s(n,y,y)==o)then h=e[h];end;if(s(n,g,g)==o)then d=e[d];end;if(s(n,E,E)==o)then p=({});for e=o,c(),o do p[e]=r();end;end;local e=u[A];e['E76gYmPHWq']=h;e[-179167.95799004237]=t;e["YnVnQm"]=x;e['UqgG9hpCaU']=d;e[-W]=w;e[N]=p;end;end;local t=i(l);local n=c(l);for e=a,r(l)-o,o do F[e]=A();end;return({[-340660.504512463]=t;['RW0']=n;['ogw0lFG']=F;[L]=e;[I]=a;[B]=u;});end;return(A(...));end;local function h(e,l,s,...)local o=e['RW0'];local l=e[538693];local f=e["ogw0lFG"];local c=e[-340660.504512463];local l=e[924482];local t=0;return(function(...)local e=({});local r="E76gYmPHWq";local e={};local u=(Q(I,...)-1);local p={};local n=12310;local m=-337670;local d={...};local n=-179167.95799004237;local a="UqgG9hpCaU";local t=l[t];local x="YnVnQm";local l=(76857194);local l=(true);local i=-(1);for l=0,u,1 do if(l>=o)then p[l-o]=d[l+1];else e[l]=d[l+1];end;end;local l=u-o+1;while(true)do local l=t;local o=l[x];t=l[m];if(o<=13)then if(o<=6)then if(o<=2)then if(o<=0)then e[l[n]]=v(256);elseif(o==1)then local o=l[n];local n,l=N(e[o](y(e,o+1,l[a])));i=l+o-1;local l=0;for o=o,i do l=l+1;e[o]=n[l];end;elseif(o<=2)then e[l[n]]=#e[l[a]];end;elseif(o<=4)then if(o==3)then local o=l[n];local n=l[a];local a=50*(l[r]-1);local t=e[o];local l=0;for n=o+1,n do t[a+l+1]=e[o+(n-o)];l=l+1;end;elseif(o<=4)then s[l[a]]=e[l[n]];end;elseif(o>5)then local o=l[n];local r=e[o+2];local n=e[o]+r;e[o]=n;if(r>0)then if(n<=e[o+1])then t=l[a];e[o+3]=n;end;elseif(n>=e[o+1])then t=l[a];e[o+3]=n;end;elseif(o<6)then local n=l[n];local o=e[l[a]];e[n+1]=o;e[n]=o[l[r]];end;elseif(o<=9)then if(o<=7)then e[l[n]][l[a]]=l[r];elseif(o==8)then e[l[n]]=e[l[a]][l[r]];elseif(o<=9)then e[l[n]]=e[l[a]];end;elseif(o<=11)then if(o>10)then local l=l[n];e[l]=e[l](e[l+1]);for l=l+1,c do e[l]=nil;end;elseif(o<11)then t=l[a];end;elseif(o==12)then local l=l[n];e[l](e[l+1]);for l=l,c do e[l]=nil;end;elseif(o<=13)then local o=l[n];e[o](y(e,o+1,l[a]));for l=o+1,c do e[l]=nil;end;end;elseif(o<=20)then if(o<=16)then if(o<=14)then e[l[n]]=v(l[a]);elseif(o>15)then local o=l[n];e[o]=0+(e[o]);e[o+1]=0+(e[o+1]);e[o+2]=0+(e[o+2]);local n=e[o];local r=e[o+2];if(r>0)then if(n>e[o+1])then t=l[a];else e[o+3]=n;end;elseif(n<e[o+1])then t=l[a];else e[o+3]=n;end;elseif(o<16)then e[l[n]]=e[l[a]][e[l[r]]];end;elseif(o<=18)then if(o==17)then e[l[n]]=h(f[l[a]],(nil),s);elseif(o<=18)then e[l[n]]=s[l[a]];end;elseif(o>19)then do return(e[l[n]]);end;elseif(o<20)then local l=l[n];e[l]=e[l](y(e,l+1,i));for l=l+1,i do e[l]=nil;end;end;elseif(o<=23)then if(o<=21)then e[l[n]]();elseif(o>22)then e[l[n]]=(l[a]~=0);elseif(o<23)then local o=l[n];e[o]=e[o](y(e,o+1,l[a]));for l=o+1,c do e[l]=nil;end;end;elseif(o<=25)then if(o>24)then local a=l[a];local o=e[a];for l=a+1,l[r]do o=o..e[l];end;e[l[n]]=o;elseif(o<25)then e[l[n]]=l[a];end;elseif(o==26)then do return;end;elseif(o<=27)then if(not(e[l[n]]))then t=l[a];end;end;end;end);end;return h(G(),{},B())(...);end)(({[((#{}+864183606))]=((337670));[((176864382-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))]=("\51");[(10447015)]=((349682758));[(766311036)]=("\115");[((#{13;945;}+84646545))]=(((#{552;804;631;324;(function(...)return 463,221;end)()}+26)));[((#{(function(...)return 379,713;end)()}+792125982))]=(((#{776;740;734;(function(...)return 848,985,731,866;end)()}+806649962)));[(291117717)]=((132310));["svQQx7"]=("\102");[(631204453)]=((51825898));[(941622615)]=(((380235288-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[(3198965)]=((65973811));[(516422279)]=("\107");["gkcOm"]=(((1145-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[(354012212)]=(((63-#("'psu > luraph' - memcorrupt 2020"))));[((#{(function(...)return 945,834;end)()}+586660693))]=((36));[(853076374)]=(((980718705-#("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!"))));[((846257769-#("woooow u hooked an opcode, congratulations! i do NOT give a fuck.")))]=((256));[((349682818-#("psu premium chads winning (only losers use the free version)")))]=("\101");["h8T4sVy6e"]=(((65568-#("psu 60fps, luraph 5fps, xen 0fps"))));[(341700203)]=(((#{253;171;651;931;(function(...)return 455,447,...;end)(647,149,880)}+16777207)));[((736898497-#("this isn't krnl support you bonehead moron")))]=(((596014861-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));['J9lSNJOqxu']=((914902180));[(773473746)]=((5));IQ2NdkYQ=("\97");[((#{397;(function(...)return 544,17;end)()}+286609307))]=((20));[((933166529-#("i am not wally stop asking me for wally hub support please fuck off")))]=((52));[((372021478-#("psu premium chads winning (only losers use the free version)")))]=(((42-#("ironbrew deobfuscator go brrrrrrrrrrrrrr"))));[(806649969)]=("\116");[((#{469;338;134;118;}+983163468))]=("\114");[(416276124)]=(((#{489;}+0)));hCA0c=((2047));['DiD6eTusqb']=("\99");[(61672080)]=("\104");HGJR20pED=((516422279));['qWsORcveT']=(((#{}+7)));[(780221116)]=(((232-#("@everyone designs are done. luraph website coming.... eta JULY 2020"))));["zE8cf4hvGw"]=(((#{}+27)));[(880759990)]=("\111");["b1GLIOR"]=(((325-#("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!"))));[(914902180)]=("\120");[(620593766)]=(((992103913-#("this isn't krnl support you bonehead moron"))));["EElQQp"]=((248));[(615363232)]=("\35");[((553931705-#("still waiting for luci to fix the API :|")))]=((615363232));[(65973811)]=("\112");["oliTINXe"]=((0));[((556837844-#("psu premium chads winning (only losers use the free version)")))]=(((#{719;86;401;814;(function(...)return 340,629;end)()}+15)));["kNyzjoj"]=((343915026));ovupJIWyL=("\117");[(296702923)]=((538693));[((886344169-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))]=((5e3));urXedoWm=((924482));[(185091227)]=(((880760022-#("'psu > luraph' - memcorrupt 2020"))));[((#{600;(function(...)return 742,365,867,695;end)()}+860498699))]=(((12369-#("LuraphDeobfuscator.zip (oh god DMCA incoming everyone hide)"))));[((#{821;549;280;}+33493782))]=((3));[((732841300-#("@everyone designs are done. luraph website coming.... eta JULY 2020")))]=(((983163594-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[((380235244-#("luraph is now down until further notice for an emergency major security update")))]=("\108");[(178506564)]=("\119");[(351021994)]=((176864260));[(250916009)]=((4));[((343915104-#("luraph is now down until further notice for an emergency major security update")))]=("\50");[(703674124)]=((199));['HikzMQ1B']=((15));[((133332859-#("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))]=(((178506625-#("guys someone play Among Us with memcorrupt he is so lonely :("))));[(163964448)]=(((#{482;522;959;485;(function(...)return 967,319,508;end)()}+61672073)));[((#{}+737003951))]=((8));[((#{225;206;}+360187372))]=((6));[((992103990-#("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building.")))]=("\98");[(596014739)]=("\105");[((536958134-#("still waiting for luci to fix the API :|")))]=((90));[(51825898)]=("\100");[((980718690-#("luraph is now down until further notice for an emergency major security update")))]=("\110");[((113653031-#("'psu > luraph' - memcorrupt 2020")))]=(((766311097-#("guys someone play Among Us with memcorrupt he is so lonely :("))));}),...);
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local Combat = Instance.new("TextLabel")
+local BigKnife = Instance.new("TextButton")
+local BigFists = Instance.new("TextButton")
+local BigBat = Instance.new("TextButton")
+local BigStop = Instance.new("TextButton")
+local BigSledge = Instance.new("TextButton")
+local QucikKill = Instance.new("TextButton")
+local AutoStomp = Instance.new("TextButton")
+local ArmorGod = Instance.new("TextButton")
+local Frame_2 = Instance.new("Frame")
+local Security = Instance.new("TextLabel")
+local AntiBan = Instance.new("TextButton")
+local AntiLogs = Instance.new("TextButton")
+local RemoveClothes = Instance.new("TextButton")
+local AntiSwear = Instance.new("TextButton")
+local AntiLose = Instance.new("TextButton")
+local Headless = Instance.new("TextButton")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+local Frame_3 = Instance.new("Frame")
+local Movement = Instance.new("TextLabel")
+local WalkSpeed = Instance.new("TextButton")
+local InfJump = Instance.new("TextButton")
+local JumpPower = Instance.new("TextButton")
+local AntiSlow = Instance.new("TextButton")
+local AntiSlowv2 = Instance.new("TextButton")
+local AnimationC = Instance.new("TextButton")
+local ClickTP = Instance.new("TextButton")
+local Fly = Instance.new("TextButton")
+local Frame_4 = Instance.new("Frame")
+local Other = Instance.new("TextLabel")
+local ArmorGod_2 = Instance.new("TextButton")
+local AntiBag = Instance.new("TextButton")
+local GodBlock = Instance.new("TextButton")
+local ESP = Instance.new("TextButton")
+local Aimbot = Instance.new("TextButton")
+local Remote = Instance.new("TextButton")
+local IY = Instance.new("TextButton")
+local AntiAfk = Instance.new("TextButton")
+local Frame_5 = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local FistWave = Instance.new("TextButton")
+local BrokenBones = Instance.new("TextButton")
+local MoneyChanger = Instance.new("TextButton")
+local WantedChanger = Instance.new("TextButton")
+local HollyCross = Instance.new("TextButton")
+local NoFogWallHack = Instance.new("TextButton")
+local AntiFlash = Instance.new("TextButton")
+local TextButton_3 = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 0.450
+Frame.Position = UDim2.new(0.403549403, 0, 0.0036855042, 0)
+Frame.Size = UDim2.new(0, 182, 0, 608)
+Frame.Active = true
+Frame.Draggable = true
+
+Combat.Name = "Combat"
+Combat.Parent = Frame
+Combat.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Combat.BackgroundTransparency = 0.500
+Combat.Size = UDim2.new(0, 182, 0, 53)
+Combat.Font = Enum.Font.SourceSans
+Combat.Text = "Combat"
+Combat.TextColor3 = Color3.fromRGB(0, 0, 0)
+Combat.TextSize = 20.000
+
+BigKnife.Name = "BigKnife"
+BigKnife.Parent = Frame
+BigKnife.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+BigKnife.BackgroundTransparency = 0.450
+BigKnife.Position = UDim2.new(0, 0, 0.0857143253, 0)
+BigKnife.Size = UDim2.new(0, 182, 0, 50)
+BigKnife.Font = Enum.Font.SourceSans
+BigKnife.Text = "Big Knife"
+BigKnife.TextColor3 = Color3.fromRGB(0, 0, 0)
+BigKnife.TextSize = 14.000
+
+BigFists.Name = "BigFists"
+BigFists.Parent = Frame
+BigFists.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+BigFists.BackgroundTransparency = 0.450
+BigFists.Position = UDim2.new(-0.0109890113, 0, 0.192910522, 0)
+BigFists.Size = UDim2.new(0, 182, 0, 50)
+BigFists.Font = Enum.Font.SourceSans
+BigFists.Text = "Big Fists"
+BigFists.TextColor3 = Color3.fromRGB(0, 0, 0)
+BigFists.TextSize = 14.000
+
+BigBat.Name = "BigBat"
+BigBat.Parent = Frame
+BigBat.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+BigBat.BackgroundTransparency = 0.450
+BigBat.Position = UDim2.new(0, 0, 0.313685596, 0)
+BigBat.Size = UDim2.new(0, 181, 0, 50)
+BigBat.Font = Enum.Font.SourceSans
+BigBat.Text = "Big Bat"
+BigBat.TextColor3 = Color3.fromRGB(0, 0, 0)
+BigBat.TextSize = 14.000
+
+BigStop.Name = "BigStop"
+BigStop.Parent = Frame
+BigStop.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+BigStop.BackgroundTransparency = 0.450
+BigStop.Position = UDim2.new(0.00549450517, 0, 0.436607361, 0)
+BigStop.Size = UDim2.new(0, 182, 0, 50)
+BigStop.Font = Enum.Font.SourceSans
+BigStop.Text = "Big StopSign"
+BigStop.TextColor3 = Color3.fromRGB(0, 0, 0)
+BigStop.TextSize = 14.000
+
+BigSledge.Name = "BigSledge"
+BigSledge.Parent = Frame
+BigSledge.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+BigSledge.BackgroundTransparency = 0.450
+BigSledge.Position = UDim2.new(0.00549450563, 0, 0.563067079, 0)
+BigSledge.Size = UDim2.new(0, 182, 0, 50)
+BigSledge.Font = Enum.Font.SourceSans
+BigSledge.Text = "Big SledgeHammer"
+BigSledge.TextColor3 = Color3.fromRGB(0, 0, 0)
+BigSledge.TextSize = 14.000
+
+QucikKill.Name = "QucikKill"
+QucikKill.Parent = Frame
+QucikKill.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+QucikKill.BackgroundTransparency = 0.450
+QucikKill.Position = UDim2.new(0.00549450563, 0, 0.685855269, 0)
+QucikKill.Size = UDim2.new(0, 182, 0, 50)
+QucikKill.Font = Enum.Font.SourceSans
+QucikKill.Text = "Quick Kill Around You"
+QucikKill.TextColor3 = Color3.fromRGB(0, 0, 0)
+QucikKill.TextSize = 14.000
+
+AutoStomp.Name = "AutoStomp"
+AutoStomp.Parent = Frame
+AutoStomp.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AutoStomp.BackgroundTransparency = 0.450
+AutoStomp.Position = UDim2.new(-0.0109890113, 0, 0.817434192, 0)
+AutoStomp.Size = UDim2.new(0, 182, 0, 50)
+AutoStomp.Font = Enum.Font.SourceSans
+AutoStomp.Text = "AutoStomp"
+AutoStomp.TextColor3 = Color3.fromRGB(0, 0, 0)
+AutoStomp.TextSize = 14.000
+
+ArmorGod.Name = "ArmorGod"
+ArmorGod.Parent = Frame
+ArmorGod.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+ArmorGod.BackgroundTransparency = 0.450
+ArmorGod.Position = UDim2.new(0, 0, 0.917763174, 0)
+ArmorGod.Size = UDim2.new(0, 183, 0, 50)
+ArmorGod.Font = Enum.Font.SourceSans
+ArmorGod.Text = "Armor God"
+ArmorGod.TextColor3 = Color3.fromRGB(0, 0, 0)
+ArmorGod.TextSize = 14.000
+
+Frame_2.Parent = ScreenGui
+Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_2.BackgroundTransparency = 0.500
+Frame_2.Position = UDim2.new(0.591820955, 0, 0, 0)
+Frame_2.Size = UDim2.new(0, 192, 0, 608)
+
+Security.Name = "Security"
+Security.Parent = Frame_2
+Security.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Security.BackgroundTransparency = 0.500
+Security.Position = UDim2.new(-0.00520833349, 0, 0, 0)
+Security.Size = UDim2.new(0, 192, 0, 53)
+Security.Font = Enum.Font.SourceSans
+Security.Text = "Security"
+Security.TextColor3 = Color3.fromRGB(0, 0, 0)
+Security.TextSize = 20.000
+
+AntiBan.Name = "AntiBan"
+AntiBan.Parent = Frame_2
+AntiBan.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiBan.BackgroundTransparency = 0.450
+AntiBan.Position = UDim2.new(-0.00520833349, 0, 0.0857143253, 0)
+AntiBan.Size = UDim2.new(0, 192, 0, 50)
+AntiBan.Font = Enum.Font.SourceSans
+AntiBan.Text = "Anti-Ban"
+AntiBan.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiBan.TextSize = 14.000
+
+AntiLogs.Name = "AntiLogs"
+AntiLogs.Parent = Frame_2
+AntiLogs.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiLogs.BackgroundTransparency = 0.450
+AntiLogs.Position = UDim2.new(-0.010416666, 0, 0.437013656, 0)
+AntiLogs.Size = UDim2.new(0, 192, 0, 50)
+AntiLogs.Font = Enum.Font.SourceSans
+AntiLogs.Text = "Anti-Logs"
+AntiLogs.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiLogs.TextSize = 14.000
+
+RemoveClothes.Name = "RemoveClothes"
+RemoveClothes.Parent = Frame_2
+RemoveClothes.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+RemoveClothes.BackgroundTransparency = 0.450
+RemoveClothes.Position = UDim2.new(-0.00520833349, 0, 0.564743996, 0)
+RemoveClothes.Size = UDim2.new(0, 191, 0, 50)
+RemoveClothes.Font = Enum.Font.SourceSans
+RemoveClothes.Text = "Remove Clothes"
+RemoveClothes.TextColor3 = Color3.fromRGB(0, 0, 0)
+RemoveClothes.TextSize = 14.000
+
+AntiSwear.Name = "AntiSwear"
+AntiSwear.Parent = Frame_2
+AntiSwear.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiSwear.BackgroundTransparency = 0.450
+AntiSwear.Position = UDim2.new(-0.00520833349, 0, 0.315382898, 0)
+AntiSwear.Size = UDim2.new(0, 191, 0, 50)
+AntiSwear.Font = Enum.Font.SourceSans
+AntiSwear.Text = "Anti-Swear"
+AntiSwear.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiSwear.TextSize = 14.000
+
+AntiLose.Name = "AntiLose"
+AntiLose.Parent = Frame_2
+AntiLose.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiLose.BackgroundTransparency = 0.450
+AntiLose.Position = UDim2.new(-0.00520833349, 0, 0.196056321, 0)
+AntiLose.Size = UDim2.new(0, 192, 0, 50)
+AntiLose.Font = Enum.Font.SourceSans
+AntiLose.Text = "Anti-Lose"
+AntiLose.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiLose.TextSize = 14.000
+
+Headless.Name = "Headless"
+Headless.Parent = Frame_2
+Headless.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+Headless.BackgroundTransparency = 0.450
+Headless.Position = UDim2.new(0, 0, 0.6875, 0)
+Headless.Size = UDim2.new(0, 191, 0, 50)
+Headless.Font = Enum.Font.SourceSans
+Headless.Text = "Headless"
+Headless.TextColor3 = Color3.fromRGB(0, 0, 0)
+Headless.TextSize = 14.000
+
+TextButton.Parent = Frame_2
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+TextButton.BackgroundTransparency = 0.450
+TextButton.Position = UDim2.new(-0.00520833349, 0, 0.817434192, 0)
+TextButton.Size = UDim2.new(0, 192, 0, 50)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.Text = "Never Get Banned For Exploiting"
+TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextSize = 14.000
+
+TextButton_2.Parent = Frame_2
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+TextButton_2.BackgroundTransparency = 0.450
+TextButton_2.Position = UDim2.new(0, 0, 0.922697365, 0)
+TextButton_2.Size = UDim2.new(0, 193, 0, 50)
+TextButton_2.Font = Enum.Font.SourceSans
+TextButton_2.Text = "Anti-Robux Stealer"
+TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_2.TextSize = 14.000
+
+Frame_3.Parent = ScreenGui
+Frame_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_3.BackgroundTransparency = 0.500
+Frame_3.Position = UDim2.new(0.773148179, 0, 0.0638820603, 0)
+Frame_3.Size = UDim2.new(0, 186, 0, 558)
+
+Movement.Name = "Movement"
+Movement.Parent = Frame_3
+Movement.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Movement.BackgroundTransparency = 0.500
+Movement.Position = UDim2.new(-0.00537634408, 0, -0.0907609835, 0)
+Movement.Size = UDim2.new(0, 187, 0, 50)
+Movement.Font = Enum.Font.SourceSans
+Movement.Text = "Movement"
+Movement.TextColor3 = Color3.fromRGB(0, 0, 0)
+Movement.TextSize = 20.000
+
+WalkSpeed.Name = "WalkSpeed"
+WalkSpeed.Parent = Frame_3
+WalkSpeed.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+WalkSpeed.BackgroundTransparency = 0.450
+WalkSpeed.Size = UDim2.new(0, 186, 0, 50)
+WalkSpeed.Font = Enum.Font.SourceSans
+WalkSpeed.Text = "WalkSpeed"
+WalkSpeed.TextColor3 = Color3.fromRGB(0, 0, 0)
+WalkSpeed.TextSize = 14.000
+
+InfJump.Name = "InfJump"
+InfJump.Parent = Frame_3
+InfJump.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+InfJump.BackgroundTransparency = 0.450
+InfJump.Position = UDim2.new(-0.00537634362, 0, 0.123204187, 0)
+InfJump.Size = UDim2.new(0, 186, 0, 50)
+InfJump.Font = Enum.Font.SourceSans
+InfJump.Text = "Infinite Jump"
+InfJump.TextColor3 = Color3.fromRGB(0, 0, 0)
+InfJump.TextSize = 14.000
+
+JumpPower.Name = "JumpPower"
+JumpPower.Parent = Frame_3
+JumpPower.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+JumpPower.BackgroundTransparency = 0.450
+JumpPower.Position = UDim2.new(0, 0, 0.252058715, 0)
+JumpPower.Size = UDim2.new(0, 185, 0, 50)
+JumpPower.Font = Enum.Font.SourceSans
+JumpPower.Text = "JumpPower"
+JumpPower.TextColor3 = Color3.fromRGB(0, 0, 0)
+JumpPower.TextSize = 14.000
+
+AntiSlow.Name = "AntiSlow"
+AntiSlow.Parent = Frame_3
+AntiSlow.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiSlow.BackgroundTransparency = 0.450
+AntiSlow.Position = UDim2.new(0, 0, 0.383527309, 0)
+AntiSlow.Size = UDim2.new(0, 187, 0, 50)
+AntiSlow.Font = Enum.Font.SourceSans
+AntiSlow.Text = "Anti-Slow"
+AntiSlow.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiSlow.TextSize = 14.000
+
+AntiSlowv2.Name = "AntiSlowv2"
+AntiSlowv2.Parent = Frame_3
+AntiSlowv2.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiSlowv2.BackgroundTransparency = 0.450
+AntiSlowv2.Position = UDim2.new(-0.0107526882, 0, 0.522438467, 0)
+AntiSlowv2.Size = UDim2.new(0, 187, 0, 50)
+AntiSlowv2.Font = Enum.Font.SourceSans
+AntiSlowv2.Text = "Anti-Slow V2"
+AntiSlowv2.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiSlowv2.TextSize = 14.000
+
+AnimationC.Name = "AnimationC"
+AnimationC.Parent = Frame_3
+AnimationC.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AnimationC.BackgroundTransparency = 0.450
+AnimationC.Position = UDim2.new(0, 0, 0.657706082, 0)
+AnimationC.Size = UDim2.new(0, 187, 0, 50)
+AnimationC.Font = Enum.Font.SourceSans
+AnimationC.Text = "Animation Changer"
+AnimationC.TextColor3 = Color3.fromRGB(0, 0, 0)
+AnimationC.TextSize = 14.000
+
+ClickTP.Name = "ClickTP"
+ClickTP.Parent = Frame_3
+ClickTP.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+ClickTP.BackgroundTransparency = 0.450
+ClickTP.Position = UDim2.new(0, 0, 0.80107528, 0)
+ClickTP.Size = UDim2.new(0, 187, 0, 50)
+ClickTP.Font = Enum.Font.SourceSans
+ClickTP.Text = "Click Teleport"
+ClickTP.TextColor3 = Color3.fromRGB(0, 0, 0)
+ClickTP.TextSize = 14.000
+
+Fly.Name = "Fly"
+Fly.Parent = Frame_3
+Fly.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+Fly.BackgroundTransparency = 0.450
+Fly.Position = UDim2.new(0, 0, 0.910394251, 0)
+Fly.Size = UDim2.new(0, 187, 0, 50)
+Fly.Font = Enum.Font.SourceSans
+Fly.Text = "Flight"
+Fly.TextColor3 = Color3.fromRGB(0, 0, 0)
+Fly.TextSize = 14.000
+
+Frame_4.Parent = ScreenGui
+Frame_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_4.BackgroundTransparency = 0.450
+Frame_4.Position = UDim2.new(0.228395045, 0, 0.0651105642, 0)
+Frame_4.Size = UDim2.new(0, 182, 0, 558)
+
+Other.Name = "Other"
+Other.Parent = Frame_4
+Other.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Other.BackgroundTransparency = 0.500
+Other.Position = UDim2.new(0, 0, -0.0949820802, 0)
+Other.Size = UDim2.new(0, 183, 0, 52)
+Other.Font = Enum.Font.SourceSans
+Other.Text = "Other"
+Other.TextColor3 = Color3.fromRGB(0, 0, 0)
+Other.TextSize = 14.000
+
+ArmorGod_2.Name = "ArmorGod"
+ArmorGod_2.Parent = Frame_4
+ArmorGod_2.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+ArmorGod_2.BackgroundTransparency = 0.450
+ArmorGod_2.Size = UDim2.new(0, 182, 0, 50)
+ArmorGod_2.Font = Enum.Font.SourceSans
+ArmorGod_2.Text = "Armor God"
+ArmorGod_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+ArmorGod_2.TextSize = 14.000
+
+AntiBag.Name = "AntiBag"
+AntiBag.Parent = Frame_4
+AntiBag.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiBag.BackgroundTransparency = 0.450
+AntiBag.Position = UDim2.new(0.00549450563, 0, 0.116035737, 0)
+AntiBag.Size = UDim2.new(0, 179, 0, 50)
+AntiBag.Font = Enum.Font.SourceSans
+AntiBag.Text = "Anti-Bag"
+AntiBag.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiBag.TextSize = 14.000
+
+GodBlock.Name = "GodBlock"
+GodBlock.Parent = Frame_4
+GodBlock.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+GodBlock.BackgroundTransparency = 0.450
+GodBlock.Position = UDim2.new(0.00549450563, 0, 0.245519698, 0)
+GodBlock.Size = UDim2.new(0, 179, 0, 50)
+GodBlock.Font = Enum.Font.SourceSans
+GodBlock.Text = "God Block"
+GodBlock.TextColor3 = Color3.fromRGB(0, 0, 0)
+GodBlock.TextSize = 14.000
+
+ESP.Name = "ESP"
+ESP.Parent = Frame_4
+ESP.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+ESP.BackgroundTransparency = 0.450
+ESP.Position = UDim2.new(0.00549450563, 0, 0.379928321, 0)
+ESP.Size = UDim2.new(0, 179, 0, 50)
+ESP.Font = Enum.Font.SourceSans
+ESP.Text = "ESP"
+ESP.TextColor3 = Color3.fromRGB(0, 0, 0)
+ESP.TextSize = 14.000
+
+Aimbot.Name = "Aimbot"
+Aimbot.Parent = Frame_4
+Aimbot.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+Aimbot.BackgroundTransparency = 0.450
+Aimbot.Position = UDim2.new(0, 0, 0.51792115, 0)
+Aimbot.Size = UDim2.new(0, 180, 0, 50)
+Aimbot.Font = Enum.Font.SourceSans
+Aimbot.Text = "Aimbot"
+Aimbot.TextColor3 = Color3.fromRGB(0, 0, 0)
+Aimbot.TextSize = 14.000
+
+Remote.Name = "Remote"
+Remote.Parent = Frame_4
+Remote.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+Remote.BackgroundTransparency = 0.450
+Remote.Position = UDim2.new(0, 0, 0.652329743, 0)
+Remote.Size = UDim2.new(0, 180, 0, 50)
+Remote.Font = Enum.Font.SourceSans
+Remote.Text = "Remote Spy"
+Remote.TextColor3 = Color3.fromRGB(0, 0, 0)
+Remote.TextSize = 14.000
+
+IY.Name = "IY"
+IY.Parent = Frame_4
+IY.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+IY.BackgroundTransparency = 0.450
+IY.Position = UDim2.new(0.00549450563, 0, 0.795698941, 0)
+IY.Size = UDim2.new(0, 179, 0, 50)
+IY.Font = Enum.Font.SourceSans
+IY.Text = "Infinite Yield"
+IY.TextColor3 = Color3.fromRGB(0, 0, 0)
+IY.TextSize = 14.000
+
+AntiAfk.Name = "AntiAfk"
+AntiAfk.Parent = Frame_4
+AntiAfk.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiAfk.BackgroundTransparency = 0.450
+AntiAfk.Position = UDim2.new(0.00549450563, 0, 0.910394251, 0)
+AntiAfk.Size = UDim2.new(0, 179, 0, 50)
+AntiAfk.Font = Enum.Font.SourceSans
+AntiAfk.Text = "Anti-Afk"
+AntiAfk.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiAfk.TextSize = 14.000
+
+Frame_5.Parent = ScreenGui
+Frame_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_5.BackgroundTransparency = 0.450
+Frame_5.Position = UDim2.new(0.0509259328, 0, 0.0651105642, 0)
+Frame_5.Size = UDim2.new(0, 184, 0, 558)
+
+TextLabel.Parent = Frame_5
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+TextLabel.BackgroundTransparency = 0.500
+TextLabel.Position = UDim2.new(0, 0, -0.0949820802, 0)
+TextLabel.Size = UDim2.new(0, 184, 0, 52)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "Fun"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 14.000
+
+FistWave.Name = "Fist Wave"
+FistWave.Parent = Frame_5
+FistWave.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+FistWave.BackgroundTransparency = 0.450
+FistWave.Size = UDim2.new(0, 184, 0, 50)
+FistWave.Font = Enum.Font.SourceSans
+FistWave.Text = "Fist Wave"
+FistWave.TextColor3 = Color3.fromRGB(0, 0, 0)
+FistWave.TextSize = 14.000
+
+BrokenBones.Name = "BrokenBones"
+BrokenBones.Parent = Frame_5
+BrokenBones.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+BrokenBones.BackgroundTransparency = 0.450
+BrokenBones.Position = UDim2.new(0, 0, 0.116487458, 0)
+BrokenBones.Size = UDim2.new(0, 184, 0, 50)
+BrokenBones.Font = Enum.Font.SourceSans
+BrokenBones.Text = "Broken Bones"
+BrokenBones.TextColor3 = Color3.fromRGB(0, 0, 0)
+BrokenBones.TextSize = 14.000
+
+MoneyChanger.Name = "MoneyChanger"
+MoneyChanger.Parent = Frame_5
+MoneyChanger.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+MoneyChanger.BackgroundTransparency = 0.450
+MoneyChanger.Position = UDim2.new(0, 0, 0.245519713, 0)
+MoneyChanger.Size = UDim2.new(0, 184, 0, 50)
+MoneyChanger.Font = Enum.Font.SourceSans
+MoneyChanger.Text = "Client Wanted Changer"
+MoneyChanger.TextColor3 = Color3.fromRGB(0, 0, 0)
+MoneyChanger.TextSize = 14.000
+
+WantedChanger.Name = "WantedChanger"
+WantedChanger.Parent = Frame_5
+WantedChanger.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+WantedChanger.BackgroundTransparency = 0.450
+WantedChanger.Position = UDim2.new(0, 0, 0.378136188, 0)
+WantedChanger.Size = UDim2.new(0, 184, 0, 50)
+WantedChanger.Font = Enum.Font.SourceSans
+WantedChanger.Text = "Client Money Changer"
+WantedChanger.TextColor3 = Color3.fromRGB(0, 0, 0)
+WantedChanger.TextSize = 14.000
+
+HollyCross.Name = "HollyCross"
+HollyCross.Parent = Frame_5
+HollyCross.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+HollyCross.BackgroundTransparency = 0.450
+HollyCross.Position = UDim2.new(0, 0, 0.51792115, 0)
+HollyCross.Size = UDim2.new(0, 184, 0, 50)
+HollyCross.Font = Enum.Font.SourceSans
+HollyCross.Text = "Holly Cross"
+HollyCross.TextColor3 = Color3.fromRGB(0, 0, 0)
+HollyCross.TextSize = 14.000
+
+NoFogWallHack.Name = "NoFogWallHack"
+NoFogWallHack.Parent = Frame_5
+NoFogWallHack.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+NoFogWallHack.BackgroundTransparency = 0.450
+NoFogWallHack.Position = UDim2.new(0, 0, 0.652329743, 0)
+NoFogWallHack.Size = UDim2.new(0, 184, 0, 50)
+NoFogWallHack.Font = Enum.Font.SourceSans
+NoFogWallHack.Text = "No Fog, WallHack"
+NoFogWallHack.TextColor3 = Color3.fromRGB(0, 0, 0)
+NoFogWallHack.TextSize = 14.000
+
+AntiFlash.Name = "AntiFlash"
+AntiFlash.Parent = Frame_5
+AntiFlash.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+AntiFlash.BackgroundTransparency = 0.450
+AntiFlash.Position = UDim2.new(0, 0, 0.795698941, 0)
+AntiFlash.Size = UDim2.new(0, 184, 0, 50)
+AntiFlash.Font = Enum.Font.SourceSans
+AntiFlash.Text = "Anti Flash"
+AntiFlash.TextColor3 = Color3.fromRGB(0, 0, 0)
+AntiFlash.TextSize = 14.000
+
+TextButton_3.Parent = Frame_5
+TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 146, 146)
+TextButton_3.BackgroundTransparency = 0.450
+TextButton_3.Position = UDim2.new(0.00543478271, 0, 0.905017912, 0)
+TextButton_3.Size = UDim2.new(0, 184, 0, 50)
+TextButton_3.Font = Enum.Font.SourceSans
+TextButton_3.Text = "Chat Spam"
+TextButton_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_3.TextSize = 14.000
+
